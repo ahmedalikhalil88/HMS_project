@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mustafa\\Digital Egypt Pioneers Initiative DEPI\\techncial\\project\\HMS_Project\\common\\common.csproj": {}
+    "C:\\Users\\LAB\\Documents\\GitHub\\HMS_project\\HMS_Project\\common\\common.csproj": {}
   },
   "projects": {
-    "E:\\Mustafa\\Digital Egypt Pioneers Initiative DEPI\\techncial\\project\\HMS_Project\\common\\common.csproj": {
+    "C:\\Users\\LAB\\Documents\\GitHub\\HMS_project\\HMS_Project\\common\\common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mustafa\\Digital Egypt Pioneers Initiative DEPI\\techncial\\project\\HMS_Project\\common\\common.csproj",
+        "projectUniqueName": "C:\\Users\\LAB\\Documents\\GitHub\\HMS_project\\HMS_Project\\common\\common.csproj",
         "projectName": "common",
-        "projectPath": "E:\\Mustafa\\Digital Egypt Pioneers Initiative DEPI\\techncial\\project\\HMS_Project\\common\\common.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Mustafa\\Digital Egypt Pioneers Initiative DEPI\\techncial\\project\\HMS_Project\\common\\obj\\",
+        "projectPath": "C:\\Users\\LAB\\Documents\\GitHub\\HMS_project\\HMS_Project\\common\\common.csproj",
+        "packagesPath": "C:\\Users\\LAB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAB\\Documents\\GitHub\\HMS_project\\HMS_Project\\common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
