@@ -4,10 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using static System.Net.Mime.MediaTypeNames;
+
+
 namespace common
 {
     public class Prescription
     {
+
         private int prescriptionID;
         private int dosage;
         private DateTime dateIssued;
